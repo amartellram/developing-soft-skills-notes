@@ -1,8 +1,15 @@
-# 1. Managing Conflict Best Practices
+#  Managing Conflict Best Practices
 
-## 1.1 Improve your conflict competency
+## 1. Improve your conflict competency
+
 
 ### 1.2 Conflict competency skills
+
+* Unresolved conflict impacts productivity and results and erodes away at culture.
+* As we strengthen our conflict compentency skills, we lessen the disruption and emotional pain.
+
+"Leadership is a full-contact sport, and if you cannot or will not address conflict in a healthy, productive fashion,
+you should not be in a leadership role."
 
 ### 1.3 Know thyself
 
